@@ -18,7 +18,7 @@
    ```
 3. В корневой папке двойной клик по main.py или в терминале: 
    ``` 
-   cd С:/.../my-clicker-for-action-rpg
+   cd С:\...\my-clicker-for-action-rpg
    ```
    ```
    python main.py
